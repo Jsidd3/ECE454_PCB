@@ -6,4 +6,5 @@ PCB serves as the main power supply and motor controller for ECE 454 Team 6 Auto
 
 Soldred using Voltera PCB Printer
 ![WhatsApp Image 2025-04-14 at 16 43 18_f0a2d588](https://github.com/user-attachments/assets/fa0df18c-7017-458a-8ddc-4d5bf9d8fb5e)
+Designed using Altium Designer by Jawwad Siddiqui. Credit to Nico Gomez who also contributed to the Motor Controller Schematic.
 
