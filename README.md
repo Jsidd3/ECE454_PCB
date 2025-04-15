@@ -1,5 +1,5 @@
 # ECE454_PCB
-PCB design files for ECE 454 Team 6 Autonomous Race Car. PCB Designed by Jawwad Siddiqui
+PCB design files for UIC ECE 454 Team 6 Autonomous Race Car. PCB Designed by Jawwad Siddiqui
 
 PCB will interface with the NXP FRDM-KL25Z board. Serves as the main power supply and motor controller for ECE 454 Team 6 Autonomous Race Car. Power supply consists of boost converter and linear regulator, and motor controller consists of FET Drivers. Current version is Rev. A.
 
